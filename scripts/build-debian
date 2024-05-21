@@ -79,6 +79,8 @@ systemd-sysv,\
 u-boot-tools,\
 initramfs-tools,\
 openssh-server,\
+htop,\
+vim,\
 nano \
   "${TARGET}" \
   debian \
